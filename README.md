@@ -1,19 +1,19 @@
-<h2 align="center">☠️ Hellow ☠️ <br>I'm <br>⚖️🐝KgAmda🐝⚖️</h1>
+<h2 align="center">☠️ Hellow ☠️ <br>I'm <br>⚖️Maleesha⚖️</h1>
 <h4 align="center">I am a simple developer. Not like Dennis Ritchie..</h3>
 <h7 align="left">Amdibell whatsapp user bot project. <br>Amdibell bot 👸</h7>
 
 ##
 <p align="center">
-  <a href="https://github.com/kgamdaofficial/Amdibell">
-    <img src="https://komarev.com/ghpvc/?username=kgamdaofficial&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
+  <a href="https://github.com/maleeshaprabhash">
+    <img src="https://komarev.com/ghpvc/?username=maleeshaprabhash&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
   </a>
-  <a href="https://github.com/kgamdaofficial/Amdibell?tab=stars">
-    <img src="https://img.shields.io/github/stars/kgamdaofficial?color=ff69b4&label=Stars&style=plastic">
+  <a href="https://github.com/maleeshaprabhash?tab=stars">
+    <img src="https://img.shields.io/github/stars/maleeshaprabhash?color=ff69b4&label=Stars&style=plastic">
 
   </a>
-  <a href="https://github.com/kgamdaofficial?tab=followers">
-    <img src="https://img.shields.io/github/followers/kgamdaofficial?color=ff69b4&label=Followers&style=plastic">
+  <a href="https://github.com/maleeshaprabhash?tab=followers">
+    <img src="https://img.shields.io/github/followers/maleeshaprabhash?color=ff69b4&label=Followers&style=plastic">
 
   </a>
 </p>
@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning **Java, Node.js, HTML, Python,Huax**
 
-- 👨‍💻 All of my projects are available at > [My Git](https://github.com/kgamdaofficial/) <
+- 👨‍💻 All of my projects are available at > [My Git](https://github.com/maleeshaprabhash/) <
 
 - 📫 How to reach me > [Whatsapp](https://wa.me/94761444438) <
 
@@ -55,29 +55,29 @@
 
 <!-- end -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kgamdaofficial&show_icons=true&layout=compact&theme=highcontrast" alt="kgamdaofficial" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maleeshaprabhash&show_icons=true&layout=compact&theme=highcontrast" alt="maleeshaprabhash" /></p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kgamdaofficial&show_icons=true&layout=compact&theme=nightowl" alt="kgamdaofficial" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maleeshaprabhash&show_icons=true&layout=compact&theme=nightowl" alt="maleeshaprabhash" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kgamdaofficial&show_icons=true&theme=highcontrast" alt="kgamdaofficial" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maleeshaprabhash&show_icons=true&theme=highcontrast" alt="maleeshaprabhash" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kgamdaofficial&theme=highcontrast" alt="kgamdaofficial" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maleeshaprabhash&theme=highcontrast" alt="maleeshaprabhash" /></p>
 </details>
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=kgamdaofficial)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=maleeshaprabhash)
 
 </details>
 
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/kgamdaofficial?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
+![Metrics](https://metrics.lecoq.io/maleeshaprabhash?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=kgamdaofficial&theme=highcontrast&repo=Amdibell)](https://github.com/kgamdaofficial/Amdibell)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=maleeshaprabhash&theme=highcontrast&repo=Amdibell)](https://github.com/maleeshaprabhash/Amdibell)
 
 </details>
 
